@@ -1,7 +1,6 @@
 # Yixin — Witnessing the Warmth of Life
 
 > Everyone deserves to be gently witnessed.
-**English | [中文版/Chinese](README.zh.md)**
 ---
 
 ## Highlights
@@ -40,8 +39,6 @@ We welcome anyone interested in technology, psychology, or human-centered design
 
 ## Learn More
 
-- [Modes & Interactions](docs/modes.md)
-- [Response Philosophy](docs/response_principles.md)
 - [Full Manifesto](manifesto.md)
 - [Roadmap](roadmap.md)
 
