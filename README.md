@@ -56,7 +56,7 @@ We welcome anyone interested in technology, psychology, or human-centered design
 
 ## Contact
 
-Email: initiator@domain.com
+Email: 3487789503@qq.com
 
 ```
 Looking forward to witnessing the richness of life — with you and the world.
