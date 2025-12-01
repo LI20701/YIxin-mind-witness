@@ -70,12 +70,3 @@
 - Yixin evolves into a “lifelong companion,” growing with the user.
 
 ---
-
-## Roadmap Suitability Notes & Modifications
-
-- **Clarity:** The phases are clearly separated with objectives, key tasks, and success criteria, which is best practice for a roadmap.
-- **Actionability:** Each milestone is concrete, measurable, and directly tied to user experience or technology.
-- **Progression:** The trajectory shows logical advancement from concept validation to reliability and care refinement.
-- **Recommendation:** Consider adding estimated timelines or OKRs for each phase. If used as a public document, clarify technical terms for broader audiences.
-
-This structure is well-suited to a product roadmap and provides a strong strategic foundation for communicating development milestones both internally and externally.
